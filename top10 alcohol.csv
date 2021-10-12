@@ -1,0 +1,28 @@
+Country,Hemisphere,Region,Type,Consumed,GDP PerCapita,Happiness Score,HDI
+Czech Republic,north,Central and Eastern Europe,Beer PerCapita,361,18.484,6.596,885
+Czech Republic,north,Central and Eastern Europe,Spirit PerCapita,170,18.484,6.596,885
+Czech Republic,north,Central and Eastern Europe,Wine PerCapita,134,18.484,6.596,885
+France,north,Western Europe,Beer PerCapita,127,36.87,6.478,899
+France,north,Western Europe,Spirit PerCapita,151,36.87,6.478,899
+France,north,Western Europe,Wine PerCapita,370,36.87,6.478,899
+Russian Federation,north,Central and Eastern Europe,Beer PerCapita,247,8.748,5.856,815
+Russian Federation,north,Central and Eastern Europe,Spirit PerCapita,326,8.748,5.856,815
+Russian Federation,north,Central and Eastern Europe,Wine PerCapita,73,8.748,5.856,815
+Lithuania,north,Central and Eastern Europe,Beer PerCapita,343,14.913,5.813,855
+Lithuania,north,Central and Eastern Europe,Spirit PerCapita,244,14.913,5.813,855
+Lithuania,north,Central and Eastern Europe,Wine PerCapita,56,14.913,5.813,855
+Luxembourg,north,Western Europe,Beer PerCapita,236,100.739,6.871,904
+Luxembourg,north,Western Europe,Spirit PerCapita,133,100.739,6.871,904
+Luxembourg,north,Western Europe,Wine PerCapita,271,100.739,6.871,904
+Germany,north,Western Europe,Beer PerCapita,346,42.233,6.994,934
+Germany,north,Western Europe,Spirit PerCapita,117,42.233,6.994,934
+Germany,north,Western Europe,Wine PerCapita,175,42.233,6.994,934
+Hungary,north,Central and Eastern Europe,Beer PerCapita,234,12.82,5.145,835
+Hungary,north,Central and Eastern Europe,Spirit PerCapita,215,12.82,5.145,835
+Hungary,north,Central and Eastern Europe,Wine PerCapita,185,12.82,5.145,835
+Poland,north,Central and Eastern Europe,Beer PerCapita,343,12.415,5.835,860
+Poland,north,Central and Eastern Europe,Spirit PerCapita,215,12.415,5.835,860
+Poland,north,Central and Eastern Europe,Wine PerCapita,56,12.415,5.835,860
+Slovakia,north,Central and Eastern Europe,Beer PerCapita,196,16.53,6.078,853
+Slovakia,north,Central and Eastern Europe,Spirit PerCapita,293,16.53,6.078,853
+Slovakia,north,Central and Eastern Europe,Wine PerCapita,116,16.53,6.078,853
