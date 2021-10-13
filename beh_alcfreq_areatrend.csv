@@ -1,5 +1,5 @@
- Year, Drinking frequency, Number of Respondents, Per cent, LL 95% CI, UL 95% CI,People
-2019, Never,"12,708",24,22.7,25.3,3050
-2019, Less than weekly,"12,708",29.6,28.2,31.1,3762
-2019, Weekly,"12,708",39,37.5,40.5,4956
-2019, Daily,"12,708",7.4,6.7,8.1,940
+ Year, Drinking frequency, Number of Respondents, Per cent,People
+2019, Never,"12,708",24,3050
+2019, Less than weekly,"12,708",29.6,3762
+2019, Weekly,"12,708",39,4956
+2019, Daily,"12,708",7.4,940
